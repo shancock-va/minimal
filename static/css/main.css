@@ -16,6 +16,10 @@ main {
     max-width: 750px;
 }
 
+article.article-summary {
+    text-align: left;
+}
+
 img {
     max-width: 100%;
 }
